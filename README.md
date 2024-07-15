@@ -1,1 +1,1 @@
-# EDA-TOP-250-NFTS
+# Customer Segmentation
